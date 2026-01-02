@@ -26,7 +26,7 @@ BUTTON_CLICK_WAIT_SECONDS = 10  # 按钮点击后等待时间
 MESSAGES_TO_SEND = [
     "你好",
     "我想要了解一下",
-    "手机号码：13216305678",
+    "手机号码：1345678910",
     "谢谢",
 ]
 
@@ -277,3 +277,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
